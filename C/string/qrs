@@ -1,0 +1,11 @@
+write a prog in c to find the lengtg of the string.
+display the string in reversed order.
+store the containt in reversed order.
+read in lower case and dispaly in upperstring.
+read a string and dispaly the num of vowels.
+to compari 2 entered string (wheather both the strings are same or not ).
+to read a string and check wheather it is palindrom or not (ex- aabaa).
+to copy the containt of one string in anotehr string. 
+merge 2 string .
+to concad to string (with out space).
+write a program in c to find the occurance of first repetative elemtnt in the string 

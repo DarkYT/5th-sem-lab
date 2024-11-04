@@ -1,0 +1,7 @@
+write a code using recursion find the permutation of given value n and r
+use recursion to convert decimal to binary
+use recursion to find prime numbers in a given range of 2 nums 
+use recursion to print series of fibonachi 
+use recursion to find gcd
+
+

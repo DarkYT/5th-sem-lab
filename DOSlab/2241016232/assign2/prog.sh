@@ -1,0 +1,2 @@
+cat a.txt b.txt c.txt|sort>result
+cat result
