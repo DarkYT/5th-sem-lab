@@ -17,6 +17,6 @@
 //   printf("%d",a);
   printf(" \n %d %s %f \n",a.slno,a.name,a.salary);
 //   puts(a.name);
-
+ 
 return 0;
 }

@@ -1,0 +1,3 @@
+using dinamic memory alocation create array
+insert
+delete
