@@ -1,2 +1,2 @@
-print("hello world")
-print('hello world')
+numbers = [1, 2, 10, 4, 5]
+print(numbers.index(10))
